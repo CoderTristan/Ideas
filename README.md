@@ -4,7 +4,7 @@ Wordpop
 
 2resumebuildandpdfinstantlytemplatesandpreviewfree
 
-3codebreakerincreasingdifficulty
+3codebreakerdailyandencryptforpersonal
 
 4inputtimedifficultyin/outdoorthemeandaigeneratesideaandtimercanbepressed
 
