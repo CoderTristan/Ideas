@@ -4,8 +4,14 @@ Wordpop
 
 2resumebuildandpdfinstantlytemplatesandpreviewfree
 
-3codebreakerdailyandencryptforpersonal
+3codebreakerdaily
 
 4inputtimedifficultyin/outdoorthemeandaigeneratesideaandtimercanbepressed
 
 5aiheadlinepredictwithnewsletterorinputbasedordailygeneratedheadlineorarticlemodes
+
+6countryorworldgenerator
+
+7articlegeneratorwithvoiceandevent
+
+8moodmapemotesglobal
