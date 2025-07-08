@@ -17,3 +17,7 @@ aiheadlinepredictwithnewsletterorinputbasedordailygeneratedheadlineorarticlemode
 articlegeneratorwithvoiceandevent
 
 aimotivationalmoviescenes
+
+dreamteamforskillsandgoals
+
+cheattowin
