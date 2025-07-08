@@ -1,28 +1,27 @@
 Wordpop
 
-aiagreeswithreasoning
+ai I agrees with reasoning
 
+mood map emotes global
 
+jobs under 18 or low level like intern or apprentice
 
-moodmapemotesglobal
+random travel ai generator with description
 
-jobsunder18orlowlevellikeinternsorapprentices
+ai generator for athlete recovery sleep nutrition chance of injury for specific training goals training and sport
 
-randomtravelaigeneratorwithdescription
+input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
 
-aigeneratorforathleterecoverysleepnutritionchanceofinjuryforspecifictraininggoalstrainingandsport
+ai headline predict with news letter or input based or daily generated headline or article modes
 
-inputtimedifficultyin/outdoorthemeandaigeneratesideaandtimercanbepressed
+article generator with voice and event
 
-aiheadlinepredictwithnewsletterorinputbasedordailygeneratedheadlineorarticlemodes
+ai motivational movie scenes
 
-articlegeneratorwithvoiceandevent
+dream team for skills and goals
 
-aimotivationalmoviescenes
+cheat to win
 
-dreamteamforskillsandgoals
+volunteering for schools
 
-cheattowin
-
-volunteeringforschools
-
+ai stock or ceo calls analysis
