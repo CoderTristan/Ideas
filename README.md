@@ -26,6 +26,6 @@ volunteering for schools
 
 ai stock or ceo calls analysis
 
-world bending coincidences
+world bending coincidences mind map of all users
 
-debate best survival method
+survival method given to ai from situation and then more theoretical paths are made from the decisions
