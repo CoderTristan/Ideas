@@ -16,5 +16,3 @@ countryorworldgenerator
 
 articlegeneratorwithvoiceandevent
 
-cheattowinwithbugsorbotsandchallengemodefortruth
-
