@@ -25,3 +25,7 @@ cheat to win
 volunteering for schools
 
 ai stock or ceo calls analysis
+
+world bending coincidences
+
+debate best survival method
