@@ -26,6 +26,6 @@ volunteering for schools
 
 ai stock or ceo calls analysis
 
-world bending coincidences mind map of all users
+world bending coincidences mind map of all users spam protection pruning finds freshest nodes
 
 survival method given to ai from situation and then more theoretical paths are made from the decisions
