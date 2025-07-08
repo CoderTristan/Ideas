@@ -4,6 +4,8 @@ Wordpop
 
 moodmapemotesglobal
 
+jobsunder18orlowlevellikeinternsorapprentices
+
 randomtravelaigeneratorwithdescription
 
 aigeneratorforathleterecoverysleepnutritionchanceofinjuryforspecifictraininggoalstrainingandsport
@@ -12,7 +14,6 @@ inputtimedifficultyin/outdoorthemeandaigeneratesideaandtimercanbepressed
 
 aiheadlinepredictwithnewsletterorinputbasedordailygeneratedheadlineorarticlemodes
 
-countryorworldgenerator
-
 articlegeneratorwithvoiceandevent
 
+aimotivationalmoviescenes
