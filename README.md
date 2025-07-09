@@ -2,7 +2,7 @@ Wordpop game for browser
 
 2 wiki pages side by side and find connections
 
-current climate change level worldwide
+current crypto nodes
 
 jobs under 18 or low level like intern or apprentice
 
