@@ -2,7 +2,7 @@ Wordpop game for browser
 
 2 daily wiki random links side by side and user inputs connection and this gets posted and connections are not seen until connection finished
 
-current crypto nodes
+current crypto nodes centralized
 
 jobs under 18 or low level like intern or apprentice search also
 
