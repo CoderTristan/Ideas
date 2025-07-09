@@ -6,6 +6,8 @@ link expirer time limit changer
 
 ai agrees with reasoning
 
+blockchain balance detector
+
 mood map emotes global
 
 jobs under 18 or low level like intern or apprentice
