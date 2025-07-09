@@ -1,5 +1,7 @@
 Wordpop
 
+regex tester for multiple tests and clipboard and common auto snippets
+
 link expirer time limit changer
 
 ai agrees with reasoning
