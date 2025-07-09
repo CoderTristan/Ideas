@@ -8,6 +8,9 @@ jobs under 18 or low level like intern or apprentice search also
 
 ai agrees along with reasoning why the user is right
 
+random travel location and ai generated description at button press
+
+
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
 
 regex tester for multiple tests and clipboard and common auto snippets and marketplace
