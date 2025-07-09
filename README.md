@@ -24,6 +24,8 @@ world connection finding with ai
 
 survival method given to ai from situation and then more theoretical paths are made from the decisions
 
+favorite everything
+
 dream team for skills and goals
 
 ai stock or ceo calls analysis
