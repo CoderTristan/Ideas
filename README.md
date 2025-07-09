@@ -1,14 +1,12 @@
 Wordpop game for browser
 
-2 wiki pages side by side and find connections
+2 daily wiki random links side by side and user inputs connection and this gets posted and connections are not seen until connection finished
 
 current crypto nodes
 
-jobs under 18 or low level like intern or apprentice
+jobs under 18 or low level like intern or apprentice search also
 
-ai agrees with reasoning why the user is right
-
-random travel location and ai generated description
+ai agrees along with reasoning why the user is right
 
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
 
@@ -31,7 +29,5 @@ article generator with voice and event
 mind map of all users spam protection pruning finds freshest nodes
 
 survival method given to ai from situation and then more theoretical paths are made from the decisions
-
-dream team for skills and goals
 
 ai generator for athlete recovery sleep nutrition chance of injury for specific training goals training and sport
