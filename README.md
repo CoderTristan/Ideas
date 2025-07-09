@@ -2,15 +2,9 @@ Wordpop game for browser
 
 regex tester for multiple tests and clipboard and common auto snippets and maybe marketplace
 
-link expirer time limit changer
+jobs under 18 or low level like intern or apprentice
 
 ai agrees with reasoning why the user is right
-
-blockchain balance detector
-
-mood map emotes globally see the mood in any place
-
-jobs under 18 or low level like intern or apprentice
 
 random travel location and ai generated description
 
@@ -18,9 +12,13 @@ input time difficulty in/outdoor theme and ai generates idea and timer can be pr
 
 ai headline predict with news letter or input based or daily generated headline or article modes
 
+mood map emotes globally see the mood in any place
+
 article generator with voice and event
 
 volunteering for schools
+
+blockchain balance detector
 
 mind map of all users spam protection pruning finds freshest nodes
 
