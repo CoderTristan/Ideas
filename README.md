@@ -1,6 +1,8 @@
 Wordpop game for browser
 
-useful websites
+2 wiki pages side by side and find connections
+
+current climate change level worldwide
 
 jobs under 18 or low level like intern or apprentice
 
