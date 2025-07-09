@@ -1,6 +1,6 @@
 Wordpop
 
-ai I agrees with reasoning
+ai agrees with reasoning
 
 mood map emotes global
 
