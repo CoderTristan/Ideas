@@ -20,8 +20,6 @@ ai headline predict with news letter or input based or daily generated headline 
 
 article generator with voice and event
 
-cheat to win game
-
 volunteering for schools
 
 mind map of all users spam protection pruning finds freshest nodes
