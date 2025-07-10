@@ -1,7 +1,5 @@
 Wordpop game for browser
 
-
-
 ai agrees along with reasoning why the user is right
 
 random travel location and ai generated description at button press
@@ -13,6 +11,12 @@ wiki page picked from headline input
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
 
 regex tester for multiple tests and clipboard and common auto snippets and marketplace
+
+ceasefire and peace tracker
+
+military strategy predictor ai
+
+social media setiment for conflicts
 
 2 daily wiki random links side by side and user inputs connection and this gets posted and connections are not seen until connection finished
 
