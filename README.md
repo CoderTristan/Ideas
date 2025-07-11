@@ -20,7 +20,17 @@ wiki page picked from headline input
 
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
 
-regex tester for multiple tests and clipboard and common auto snippets and marketplace
+website marketplace
+
+tree counter or other eco numbers
+
+profile pic easy setter for many apps
+
+physics playground
+
+box marketplace
+
+string fast comments decide on when to end comments
 
 ceasefire and peace tracker
 
