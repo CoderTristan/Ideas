@@ -6,6 +6,8 @@ ai micro eco friendly move
 
 ai 3 plot twists
 
+question framing
+
 ai agrees along with reasoning why the user is right
 
 random travel location and ai generated description at button press
