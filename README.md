@@ -39,3 +39,5 @@ mood map emotes globally see the mood in any place
 article generator with voice and event
 
 mind map of all users spam protection pruning finds freshest nodes
+
+code snippet platform
