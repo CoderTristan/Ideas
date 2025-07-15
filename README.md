@@ -18,6 +18,8 @@ jobs under 18 or low level like intern or apprentice search also
 
 job search with good search and possible added jobs
 
+questions all on one page with search and answers sorted by quality with reputations and top answer
+
 wiki page picked from headline input
 
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
