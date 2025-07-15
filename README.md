@@ -16,6 +16,8 @@ random travel location and ai generated description at button press
 
 jobs under 18 or low level like intern or apprentice search also
 
+job search with good search and possible added jobs
+
 wiki page picked from headline input
 
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
