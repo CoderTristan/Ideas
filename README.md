@@ -20,6 +20,12 @@ job search with good search and possible added jobs
 
 questions all on one page with search and answers sorted by quality with reputations and top answer
 
+summarizing reddit or grammar in dulingo
+
+note taker for any website
+
+daily mood ask with mood time graph and maybe ai explanations
+
 wiki page picked from headline input
 
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
