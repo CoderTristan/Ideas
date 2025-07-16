@@ -10,7 +10,7 @@ so meal generator for specific diets and body
 
 top word of the week
 
-everyone can edit the same code space
+everyone can edit the same code space or notes
 
 question framing
 
