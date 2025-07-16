@@ -6,7 +6,7 @@ ai micro eco friendly move
 
 ai 3 plot twists
 
-so meal generator for specific diets and body
+ai meal generator for specific diets and body
 
 top word of the week
 
@@ -32,8 +32,6 @@ note taker for any website
 
 daily mood ask with mood time graph and maybe ai explanations
 
-wiki page picked from headline input
-
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
 
 website marketplace
@@ -50,21 +48,13 @@ string fast comments decide on when to end comments
 
 ceasefire and peace tracker
 
-military strategy predictor ai
-
 social media setiment for conflicts
-
-2 daily wiki random links side by side and user inputs connection and this gets posted and connections are not seen until connection finished
 
 blockchain balance detector
 
 current crypto nodes centralized
 
 ai headline predict with news letter or input based or daily generated headline or article modes
-
-ai stock or ceo calls analysis
-
-survival method given to ai from situation and then more theoretical paths are made from the decisions
 
 ai generator for athlete recovery sleep nutrition chance of injury for specific training goals training and sport
 
@@ -77,3 +67,13 @@ article generator with voice and event
 mind map of all users spam protection pruning finds freshest nodes
 
 code snippet platform
+
+ai stock or ceo calls analysis
+
+survival method given to ai from situation and then more theoretical paths are made from the decisions
+
+2 daily wiki random links side by side and user inputs connection and this gets posted and connections are not seen until connection finished
+
+military strategy predictor ai
+
+wiki page picked from headline input
