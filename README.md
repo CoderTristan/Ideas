@@ -24,13 +24,9 @@ jobs under 18 or low level like intern or apprentice search also
 
 job search with good search and possible added jobs
 
-questions all on one page with search and answers sorted by quality with reputations and top answer
+questions all on one page with search and answers sorted by quality with reputations and top answer quota like
 
 summarizing reddit or grammar in dulingo
-
-note taker for any website
-
-daily mood ask with mood time graph and maybe ai explanations
 
 input time difficulty in/outdoor theme and ai generates idea and timer can be pressed
 
@@ -39,8 +35,6 @@ website marketplace
 tree counter or other eco numbers
 
 profile pic easy setter for many apps
-
-physics playground
 
 box marketplace
 
@@ -57,8 +51,6 @@ current crypto nodes centralized
 ai headline predict with news letter or input based or daily generated headline or article modes
 
 ai generator for athlete recovery sleep nutrition chance of injury for specific training goals training and sport
-
-volunteering for schools
 
 mood map emotes globally see the mood in any place
 
