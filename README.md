@@ -1,7 +1,5 @@
 ai stock or ceo calls analysis
 
-ai headline predict with news letter or input based or daily generated headline or article modes
-
 string fast comments decide on when to end comments
 
 jobs under 18 or low level like intern or apprentice search also
@@ -25,6 +23,8 @@ ai agrees along with reasoning why the user is right
 top word of the week
 
 social media setiment for conflicts
+
+ai headline predict with news letter or input based or daily generated headline or article modes
 
 win with unique tactics
 
