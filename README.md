@@ -8,6 +8,8 @@ ai micro eco friendly move
 
 ai 3 plot twists
 
+wiki page picked from headline input ai
+
 ai meal generator for specific diets and body
 
 top word of the week
@@ -69,5 +71,3 @@ survival method given to ai from situation and then more theoretical paths are m
 2 daily wiki random links side by side and user inputs connection and this gets posted and connections are not seen until connection finished
 
 military strategy predictor ai
-
-wiki page picked from headline input
