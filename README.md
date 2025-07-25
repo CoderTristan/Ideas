@@ -16,9 +16,7 @@ mind map of all users spam protection pruning finds freshest nodes
 
 Wordpop game for browser
 
-tree counter or other eco numbers
-
-ai agrees along with reasoning why the user is right
+wiki page picked from headline input ai
 
 top word of the week
 
@@ -30,9 +28,9 @@ win with unique tactics
 
 ai 3 plot twists
 
-ai what's missing from a platform or otherwise
+ai agrees along with reasoning why the user is right
 
-wiki page picked from headline input ai
+ai what's missing from a platform or otherwise
 
 ai meal generator for specific diets and body
 
@@ -47,6 +45,7 @@ input time difficulty in/outdoor theme and ai generates idea and timer can be pr
 profile pic easy setter for many apps
 
 article generator
+
 ceasefire and peace tracker
 
 blockchain balance detector
